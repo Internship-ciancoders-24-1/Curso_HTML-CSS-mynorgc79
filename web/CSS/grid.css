@@ -1,0 +1,13 @@
+.container{
+    max-width: 900px;
+    margin: auto;
+
+}
+
+.row{
+    display: flex;
+}
+
+.col-1{
+    width: 8.333333%;
+}
